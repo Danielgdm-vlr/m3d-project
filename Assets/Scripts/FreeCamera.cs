@@ -5,6 +5,7 @@ using UnityEngine;
 public class FreeCamera : MonoBehaviour
 {
 
+// xd
     public Camera camera;
     private float stepDistance = 1.0f;
 
