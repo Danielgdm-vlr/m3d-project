@@ -7,7 +7,7 @@ public class FreeCamera : MonoBehaviour
 
 // xd
     public new Camera camera;
-    private float stepDistance = 1.0f;
+    private float stepDistance = 1.5f;
 
     // Start is called before the first frame update
     void Start()
